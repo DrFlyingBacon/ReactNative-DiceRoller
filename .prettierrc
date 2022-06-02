@@ -8,7 +8,7 @@
     "semi": true,
     "quoteProps": "as-needed",
     "arrowParens": "avoid",
-    "printWidth": 120,
+    "printWidth": 80,
     "proseWrap": "preserve",
     "bracketSpacing": true,
     "jsxSingleQuote": false,
